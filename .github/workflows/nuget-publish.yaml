@@ -11,7 +11,7 @@ permissions:
   packages: write
 
 env:
-  PROJECT_PATH: FxSSH/FxSSH.csproj # 改为你的项目路径
+  PROJECT_PATH: FxSsh/FxSsh.csproj # 改为你的项目路径
 
 jobs:
   publish:
